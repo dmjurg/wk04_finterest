@@ -16,6 +16,7 @@ gem 'rb-readline'
 gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
 
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
